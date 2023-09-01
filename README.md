@@ -14,7 +14,7 @@
 
 [有用的链接](https://github.com/ColderCode/Course/wiki)
 
-# 笔记
+# 课件
 
 [第一课：综述](https://github.com/ColderCode/Course/tree/main/%E7%AC%AC%E4%B8%80%E8%AF%BE%20%E7%BB%BC%E8%BF%B0)
 
