@@ -13,9 +13,3 @@
 [成为演讲者](https://github.com/ColderCode/Course/discussions/3)
 
 [有用的链接](https://github.com/ColderCode/Course/wiki)
-
-# 课件
-
-[第一课：综述](https://github.com/ColderCode/Course/tree/main/%E7%AC%AC%E4%B8%80%E8%AF%BE%20%E7%BB%BC%E8%BF%B0)
-
-[第二课：代码规范](https://github.com/ColderCode/Course/tree/main/%E7%AC%AC%E4%BA%8C%E8%AF%BE%20%20%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
